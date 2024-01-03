@@ -1,0 +1,6 @@
+
+.custom-card-image {
+  height: 500px; /* Establece la altura fija de la imagen dentro de la tarjeta según tus necesidades */
+  object-fit: cover; /* Ajusta el contenido de la imagen para cubrir toda la caja, manteniendo su relación de aspecto */
+}
+
